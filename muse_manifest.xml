@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="seifsaoverview.co.za" resolutions="1x" timestamp="1561469860163">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="seifsaoverview.co.za" resolutions="1x" timestamp="1561471206623">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="185753502" ref="index"/>
+    <file name="index.css" crc="3961660128" ref="index"/>
     <file name="nomq_index.css" crc="4179204593" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -148,5 +148,5 @@
     <file name="seifsa-nav-system-update_16-u1187-fr.jpg" crc="3981574856" ref="index"/>
     <file name="seifsa-nav-system-update_14-u1186-fr.jpg" crc="3923027989" ref="index"/>
   </folder>
-  <file name="index.html" crc="194884813" seo="true" mt="1561469819401" redirect="true"/>
+  <file name="index.html" crc="368680547" seo="true" mt="1561470943439" redirect="true"/>
 </manifest>
