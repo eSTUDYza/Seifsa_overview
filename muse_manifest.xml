@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="seifsaoverview.co.za" resolutions="1x" timestamp="1561462354833">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="seifsaoverview.co.za" resolutions="1x" timestamp="1561469860163">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4100559819" ref="index"/>
-    <file name="nomq_index.css" crc="195326865" ref="index"/>
+    <file name="index.css" crc="185753502" ref="index"/>
+    <file name="nomq_index.css" crc="4179204593" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -76,10 +76,8 @@
     <file name="seifsa-nav-system-update_03.jpg" crc="487503813" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="seifsa-nav-system-update_05.jpg" crc="156303888" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -87,10 +85,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="seifsa-nav-system-update_16.jpg" crc="437558047" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -126,7 +122,7 @@
     <file name="u1177-r3.png" crc="220743904" ref="index"/>
     <file name="u1175-43.png" crc="154674491" ref="index"/>
     <file name="u1182-43.png" crc="230029658" ref="index"/>
-    <file name="u1179-43.png" crc="26148317" ref="index"/>
+    <file name="u1179-43.png" crc="4019774737" ref="index"/>
     <file name="u11813.png" crc="220743904" ref="index"/>
     <file name="u1181-r3.png" crc="220743904" ref="index"/>
     <file name="u1171-43.png" crc="479164138" ref="index"/>
@@ -138,17 +134,19 @@
     <file name="u1174-44.png" crc="160433405" ref="index"/>
     <file name="u11774.png" crc="220743904" ref="index"/>
     <file name="u1177-r4.png" crc="220743904" ref="index"/>
-    <file name="u1175-44.png" crc="154674491" ref="index"/>
+    <file name="u1175-44.png" crc="72884197" ref="index"/>
     <file name="u1182-44.png" crc="230029658" ref="index"/>
-    <file name="u1179-44.png" crc="26148317" ref="index"/>
+    <file name="u1179-44.png" crc="286998711" ref="index"/>
     <file name="u11814.png" crc="220743904" ref="index"/>
     <file name="u1181-r4.png" crc="220743904" ref="index"/>
     <file name="u1171-44.png" crc="479164138" ref="index"/>
     <file name="u11704.png" crc="220743904" ref="index"/>
     <file name="u1170-r4.png" crc="220743904" ref="index"/>
-    <file name="u1172-44.png" crc="180956086" ref="index"/>
+    <file name="u1172-44.png" crc="3863731581" ref="index"/>
     <file name="u1166-44.png" crc="188612700" ref="index"/>
     <file name="u1184-44.png" crc="4173426151" ref="index"/>
+    <file name="seifsa-nav-system-update_16-u1187-fr.jpg" crc="3981574856" ref="index"/>
+    <file name="seifsa-nav-system-update_14-u1186-fr.jpg" crc="3923027989" ref="index"/>
   </folder>
-  <file name="index.html" crc="3991399989" seo="true" mt="1561462314412" redirect="true"/>
+  <file name="index.html" crc="194884813" seo="true" mt="1561469819401" redirect="true"/>
 </manifest>
