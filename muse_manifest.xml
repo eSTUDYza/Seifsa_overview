@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="seifsaoverview.co.za" resolutions="1x" timestamp="1561558562420">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="seifsaoverview.co.za" resolutions="1x" timestamp="1561558865261">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="167141989" ref="index"/>
-    <file name="nomq_index.css" crc="4145560849" ref="index"/>
+    <file name="index.css" crc="113816964" ref="index"/>
+    <file name="nomq_index.css" crc="196097361" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -97,11 +97,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="75th anniversary_poster_.png" crc="462425662" ref="index"/>
-    <file name="u1174-8.png" crc="4122932548" ref="index"/>
-    <file name="u1174-82.png" crc="4122932548" ref="index"/>
-    <file name="u1174-83.png" crc="4122932548" ref="index"/>
-    <file name="u1174-84.png" crc="4122932548" ref="index"/>
-    <file name="u1174-85.png" crc="421534971" ref="index"/>
+    <file name="u1174-8.png" crc="3917239536" ref="index"/>
+    <file name="u1174-82.png" crc="3917239536" ref="index"/>
+    <file name="u1174-83.png" crc="3917239536" ref="index"/>
+    <file name="u1174-84.png" crc="3917239536" ref="index"/>
+    <file name="u1174-85.png" crc="4293375046" ref="index"/>
   </folder>
-  <file name="index.html" crc="52852956" seo="true" mt="1561558517880" redirect="true"/>
+  <file name="index.html" crc="4208445087" seo="true" mt="1561558844701" redirect="true"/>
 </manifest>
